@@ -1,0 +1,57 @@
+.jumbotron1 {
+    padding: 2rem 1rem;
+    background-color: #1d284d;
+}
+.container1 {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    border-radius: 20px;
+    width: 100px;
+    height: 3s0px;
+    margin-left: 140px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: #1d284d;
+}
+.ftoLog{
+    margin-left: 30px;
+}
+.nav-item{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.ftdash{
+    width: 300px;
+    height: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.atas{
+    background-color: #1d284d;
+}
+.nav-link .log{
+    border-radius: 20px;
+    text-decoration: none;
+}
+.btn1{
+    background-color: #921b1b;
+    color: white;
+    border-radius: 20px;
+    width: 90px;
+    height: 3s50px;
+}
+a{
+    color: white;
+}
+.list .card{
+    border: 0px solid white;
+}
